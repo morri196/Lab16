@@ -1,0 +1,4 @@
+America,North America
+Canada,North America
+France, Europe
+peru,southamerica
